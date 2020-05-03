@@ -58,7 +58,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
 
 - [Hackathons](#hackathons)
 
-- [Current Status](#current-status)
+- [Current Status](#current-status) 
 
 - [Donation and Sponsoring](#donation-and-sponsoring)
 
@@ -164,6 +164,8 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 1 | [@hmpandey](https://github.com/hmpandey)/[**CoronaQs**](https://github.com/hmpandey/CoronaQs) | HTML renderable dataset of FAQs with label collected from various trusted resources like government, UN, WHO etc. |
  | 1 | [@PhantasWeng](https://github.com/PhantasWeng)/[**coronavirus-daily-dashboard**](https://github.com/PhantasWeng/coronavirus-daily-dashboard) | Coronavirus daily dashboard. 新冠病毒每日追蹤 |
  | 0 | [@cityxdev](https://github.com/cityxdev)/[**covid19ByCountry**](https://github.com/cityxdev/covid19ByCountry) | A small dashboard providing country comparison on COVID-19 data |
+ | 0 | [@menonpg](https://github.com/menonpg)/[**COVID19_Chicago**](https://github.com/menonpg/COVID19_Chicago) | Datasets on time-series evolution of COVID19 positive cases and deaths in Chicago, scraped from chicago.gov.  |
+ | 3 | [@menonpg](https://github.com/menonpg)/[**COVID19_PA**](https://github.com/menonpg/COVID19_PA) | Datasets on time-series evolution of COVID19 positive cases, negative tests and deaths in PA, by county, scraped from PA department of health.  |
 
 #### Models
 
@@ -203,6 +205,7 @@ COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers 
  | 14 | [@par6n](https://github.com/par6n)/[**ncov-19**](https://github.com/par6n/ncov-19) | A simple page featuring an interactive map presenting nCoV-19 spread in Iran |
  | 3 | [@ankitchouhan1020](https://github.com/ankitchouhan1020)/[**corona**](https://github.com/ankitchouhan1020/corona) | Map of confirmed coronavirus cases in India |
  | 0 | [@yammadev](https://github.com/yammadev)/[**col-covid-19**](https://github.com/yammadev/col-covid-19) | Seguimiento del COVID-19 en Colombia / Tracking COVID-19 in Colombia |
+
 
 #### Applications and Bots
 
